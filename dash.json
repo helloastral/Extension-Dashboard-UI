@@ -1,0 +1,106 @@
+{
+	"title": "Employee Dashboard",
+	"search": {
+		"placeholder": "Search Google...",
+		"buttonText": "Search",
+		"icon": "https://cdn.example.com/icons/search.svg"
+	},
+	"categories": [
+		{
+			"name": "Shopify Partners",
+			"icon": "https://cdn.example.com/icons/shopify.svg",
+			"items": [
+				{
+					"title": "Partners Dashboard",
+					"description": "Access your Shopify Partners dashboard",
+					"url": "https://partners.shopify.com/dashboard",
+					"icon": "https://cdn.example.com/icons/dashboard.svg"
+				},
+				{
+					"title": "Organizations",
+					"description": "Manage your partner organizations",
+					"url": "https://partners.shopify.com/organizations",
+					"icon": "https://cdn.example.com/icons/organization.svg"
+				},
+				{
+					"title": "Development Stores",
+					"description": "Access your development stores",
+					"url": "https://partners.shopify.com/stores",
+					"icon": "https://cdn.example.com/icons/store.svg"
+				},
+				{
+					"title": "Apps",
+					"description": "Manage your Shopify apps",
+					"url": "https://partners.shopify.com/apps",
+					"icon": "https://cdn.example.com/icons/apps.svg"
+				},
+				{
+					"title": "Themes",
+					"description": "Manage your Shopify themes",
+					"url": "https://partners.shopify.com/themes",
+					"icon": "https://cdn.example.com/icons/theme.svg"
+				},
+				{
+					"title": "Payments",
+					"description": "View your partner earnings",
+					"url": "https://partners.shopify.com/payments",
+					"icon": "https://cdn.example.com/icons/payment.svg"
+				}
+			]
+		},
+		{
+			"name": "Email & Communication",
+			"icon": "https://cdn.example.com/icons/communication.svg",
+			"items": [
+				{
+					"title": "Gmail",
+					"description": "Check your work email",
+					"url": "https://mail.google.com",
+					"icon": "https://cdn.example.com/icons/gmail.svg"
+				},
+				{
+					"title": "Google Calendar",
+					"description": "View your schedule",
+					"url": "https://calendar.google.com",
+					"icon": "https://cdn.example.com/icons/calendar.svg"
+				},
+				{
+					"title": "Crisp Support",
+					"description": "Manage customer support",
+					"url": "https://app.crisp.chat",
+					"icon": "https://cdn.example.com/icons/support.svg"
+				}
+			]
+		},
+		{
+			"name": "Other Tools",
+			"icon": "https://cdn.example.com/icons/tools.svg",
+			"items": [
+				{
+					"title": "WhatsApp Web",
+					"description": "Quick messaging",
+					"url": "https://web.whatsapp.com",
+					"icon": "https://cdn.example.com/icons/whatsapp.svg"
+				},
+				{
+					"title": "Google Drive",
+					"description": "Access your documents",
+					"url": "https://drive.google.com",
+					"icon": "https://cdn.example.com/icons/drive.svg"
+				},
+				{
+					"title": "GitHub",
+					"description": "Code repositories",
+					"url": "https://github.com",
+					"icon": "https://cdn.example.com/icons/github.svg"
+				},
+				{
+					"title": "Slack",
+					"description": "Team communication",
+					"url": "https://slack.com",
+					"icon": "https://cdn.example.com/icons/slack.svg"
+				}
+			]
+		}
+	]
+}
