@@ -1,9 +1,9 @@
 {
-	"title": "Employee Dashboard",
+	"title": "Astral Dashboard",
 	"search": {
 		"placeholder": "Search Google...",
 		"buttonText": "Search",
-		"icon": "https://cdn.example.com/icons/search.svg"
+		"icon": "https://raw.githubusercontent.com/helloastral/Extension-Dashboard-UI/refs/heads/main/icons/search.svg"
 	},
 	"categories": [
 		{
